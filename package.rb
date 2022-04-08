@@ -1,7 +1,7 @@
 # typed: false
 # frozen_string_literal: true
 
-class Ok < Formula
+class Package < Formula
   desc "okctl2-poc testing"
   homepage "https://github.com/yngvark/okctl2-poc"
   version "0.0.1"
