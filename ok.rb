@@ -4,7 +4,7 @@
 class Ok < Formula
   desc "okctl2-poc testing"
   homepage "https://github.com/yngvark/okctl2-poc"
-  version "0.0.1"
+  version "0.0.2"
   license "AGPL-3.0-only"
 
   depends_on "hashicorp/tap/terraform"
